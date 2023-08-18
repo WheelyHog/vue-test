@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+## Page Layout
+
+- [Link to Visualisation](https://wheelyhog.github.io/vue_layout/)
